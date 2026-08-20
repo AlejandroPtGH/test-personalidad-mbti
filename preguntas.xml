@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preguntas>
+    <pregunta pregunta="¿Cómo recargas tu energía mental?">
+        <opciones>
+            <opcion valor="E">Obtengo energía al interactuar con otros. Soy Extrovertidx</opcion>
+            <opcion valor="I">Necesito tiempo a solas tras la estimulación social. Soy Introvertidx</opcion>
+        </opciones>
+    </pregunta>
+    <pregunta pregunta="¿Cómo prefieres analizar la información?">
+        <opciones>
+            <opcion valor="S">Únicamente hago caso a lo que se puede conocer con los cinco sentidos, soy Sensorial</opcion>
+            <opcion valor="I">Me dejo llevar por los “pálpitos”, soy Intuitivx</opcion>
+        </opciones>
+    </pregunta>
+    <pregunta pregunta="¿Cómo tomas las decisiones?">
+         <opciones>
+            <opcion valor="T">Doy prioridad a la lógica en una elección, soy Pensadxr</opcion>
+            <opcion valor="F">Prefiero responder según las personas y las circunstancias, soy Emocional</opcion>
+        </opciones>
+    </pregunta>
+    <pregunta pregunta="¿Cómo actúas con el mundo exterior?">
+         <opciones>
+            <opcion valor="P">Estoy abiertx al mundo exterior, soy Perceptivx"</opcion>
+            <opcion valor="J">Prefiero tener las cosas resueltas, soy Calificadxr</opcion>
+        </opciones>
+    </pregunta>
+</preguntas>

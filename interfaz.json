@@ -1,0 +1,10 @@
+{
+   "interfaz":{
+         "h1": "Bienvenido al Test Myers-Briggs para Personalidad",
+        "zona_test":"COMPLETA EL TEST",
+        "zona_tipos":"TIPOS DE PERSONALIDAD",
+         "titulo_test": "1. TEST DE PERSONALIDAD (SELECCIONA LA RESPUESTA ADECUADA A TU PERSONALIDAD)",
+         "titulo_tipos": "2. TIPOS DE PERSONALIDAD",
+         "fotosZonas": ["test.png", "personalidad.png"]
+        } 
+}

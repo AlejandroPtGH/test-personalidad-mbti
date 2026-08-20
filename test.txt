@@ -1,0 +1,34 @@
+El test consiste en escoger una opción de cada pareja de preferencias
+
+1-La primera dicotomía está en la actitud: si se es más propenso a lo externo a uno mismo (personas, cosas, acciones) se escogería la Extraversión (E), mientras si se prefiere centrarse en las ideas y reflexiones personales se es Introvertido (I).
+
+2-El segundo parámetro hace referencia a cómo se prefiere analizar la información; si únicamente se hace caso a lo que se puede conocer con los cinco sentidos sería un rasgo Sensorial (S), mientras que si se deja llevar por los “pálpitos”, sería Intuitivo (N).
+
+3-El tercer indicador, hace referencia a cómo se toman las decisiones. Pensador (T) si se da prioridad a la lógica en una elección o Emocional (F) si se prefiere responder según las personas y las circunstancias. 
+
+4-La última categoría se basa en cómo se actúa con el mundo exterior, si uno está abierto al mundo exterior –Perceptivo (P) -o por el contrario se prefiere tener las cosas resueltas- Calificador (J).
+
+
+Tipos de personalidades:
+
+Cuando se ha hecho elección de las preferencias se debe comprobar cuál es el tipo de personalidad. A continuación la lista de las diferentes personalidades:
+
+   ISTJ Logista
+   ISFJ Defensor/a
+   INFJ Abogad@
+   INTJ Arquitect@
+   ISTP Virtuos@
+   ISFP Aventurer@
+   INFP Mediador/a
+   INTP Lógic@
+   ESTP Emprendedor/a
+   ESFP Animador/a
+   ENFP Activista
+   ENTP Innovador/a
+   ESTJ Ejecutiv@
+   ESFJ Cónsul
+   ENFJ Protagonista
+   ENTJ Comandante
+
+
+https://wireframe.cc/0zRRTM
